@@ -9,3 +9,5 @@ Spring Boot是一个有明确倾向性、简便易上手的Spring平台增强工
 [Spring Boot 教程，构建一个简单应用](https://github.com/ahxinin/LearnSpringBootDoc/blob/main/1.SpringBootTutorial–BootstrapASimpleApplication.md)
 
 [Spring与Spring Boot之间的比较](https://github.com/ahxinin/LearnSpringBootDoc/blob/main/2.AComparisonBetweenSpringandSpringBoot.md)
+
+[Spring Boot注解](https://github.com/ahxinin/LearnSpringBootDoc/blob/main/3.SpringBootAnnotations.md)
