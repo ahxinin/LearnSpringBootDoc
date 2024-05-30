@@ -14,4 +14,5 @@ Spring Boot是一个有明确倾向性、简便易上手的Spring平台增强工
 
 [Spring Boot Starter介绍](https://github.com/ahxinin/LearnSpringBootDoc/blob/main/4.IntroToSpringBootStarters.md)
 
-[Spring Boot项目的推荐包结构]
+[Spring Boot项目的推荐包结构](https://github.com/ahxinin/LearnSpringBootDoc/blob/main/5.RecommendedPackageStructureOfASpringBootProject.md)
+
